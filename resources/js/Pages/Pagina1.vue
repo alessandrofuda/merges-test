@@ -14,4 +14,7 @@ import {Head} from "@inertiajs/vue3";
     <div>
         altri commit and push generici sul branch main
     </div>
+    <div class="edit-from-branch-feature">
+        editing from Branch Feature (page created in branch main)
+    </div>
 </template>
