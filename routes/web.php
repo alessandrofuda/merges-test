@@ -16,6 +16,7 @@ Route::get('/', function () {
 });
 
 Route::get('pagina1', [PagesController::class, 'pagina1'])->name('pagina1');
+Route::get('pagina3', [PagesController::class, 'pagina3'])->name('pagina3');
 
 Route::get('/dashboard', function () {
     return Inertia::render('Dashboard');
