@@ -92,7 +92,7 @@ function handleImageError() {
                         </template>
                     </nav>
                 </header>
-
+                asdkjhasdjh kjahssakdh kjahkjadhhdsakj altro commit generico sul banch main
                 <main class="mt-6">
                     <div class="grid gap-6 lg:grid-cols-2 lg:gap-8">
                         <a
