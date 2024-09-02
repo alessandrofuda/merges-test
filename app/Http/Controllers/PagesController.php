@@ -21,4 +21,10 @@ class PagesController extends Controller
     {
         return Inertia::render('Pagina3');
     }
+
+    public function pagina4()
+    {
+        return Inertia::render('Pagina4');
+    }
+
 }
