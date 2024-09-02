@@ -11,4 +11,7 @@ import {Head} from "@inertiajs/vue3";
     <div>
         modifica della pagina 1 DAL branch main dopo aver lavorato sul branch feature
     </div>
+    <div>
+        altri commit and push generici sul branch main
+    </div>
 </template>
