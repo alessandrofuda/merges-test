@@ -8,4 +8,7 @@ import {Head} from "@inertiajs/vue3";
         test pagina 3 sul branch main
         (migration: created posts table, 3 records)
     </div>
+    <div>
+        altri sviluppi sul branch main..........
+    </div>
 </template>
