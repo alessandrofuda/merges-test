@@ -11,4 +11,9 @@ class PagesController extends Controller
     {
         return Inertia::render('Pagina1');
     }
+
+    public function pagina2()
+    {
+        return Inertia::render('Pagina2');
+    }
 }
